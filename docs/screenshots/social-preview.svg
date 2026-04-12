@@ -28,7 +28,7 @@
   <text x="118" y="140" fill="#FBBF24" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="7">PORTFOLIO SYSTEM DESIGN PROJECT</text>
   <text x="118" y="238" fill="#F8FAFC" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700">Scalable Real-Time</text>
   <text x="118" y="320" fill="#F8FAFC" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700">Chat System</text>
-  <text x="118" y="382" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="28">Next.js • Express • Socket.IO • PostgreSQL • Redis • Prisma</text>
+  <text x="118" y="382" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="28">Next.js | Express | Socket.IO | PostgreSQL | Redis | Prisma</text>
 
   <rect x="118" y="430" width="240" height="58" rx="18" fill="url(#accent)" />
   <text x="155" y="467" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Full-Stack Portfolio</text>
