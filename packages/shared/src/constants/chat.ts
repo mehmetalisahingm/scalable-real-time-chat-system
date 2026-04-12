@@ -1,0 +1,3 @@
+export const DEFAULT_MESSAGE_PAGE_SIZE = 25;
+export const MAX_MESSAGE_LENGTH = 2000;
+export const MAX_ROOM_NAME_LENGTH = 80;
