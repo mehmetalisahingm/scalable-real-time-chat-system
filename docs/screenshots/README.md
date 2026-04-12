@@ -6,4 +6,5 @@ Suggested captures:
 
 - login screen,
 - main chat workspace,
-- mobile responsive layout.
+- mobile responsive layout,
+- GitHub social preview asset.

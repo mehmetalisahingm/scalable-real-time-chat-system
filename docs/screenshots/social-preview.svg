@@ -1,0 +1,51 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="40" x2="1120" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1322" />
+      <stop offset="0.55" stop-color="#0A1220" />
+      <stop offset="1" stop-color="#07101A" />
+    </linearGradient>
+    <linearGradient id="panel" x1="150" y1="110" x2="1070" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="rgba(255,255,255,0.18)" />
+      <stop offset="1" stop-color="rgba(255,255,255,0.05)" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F97316" />
+      <stop offset="1" stop-color="#FBBF24" />
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="60" />
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" rx="32" fill="url(#bg)" />
+  <circle cx="190" cy="120" r="120" fill="#F97316" fill-opacity="0.18" filter="url(#blur)" />
+  <circle cx="1030" cy="120" r="96" fill="#14B8A6" fill-opacity="0.18" filter="url(#blur)" />
+  <circle cx="1060" cy="540" r="128" fill="#FBBF24" fill-opacity="0.14" filter="url(#blur)" />
+
+  <rect x="74" y="72" width="1132" height="496" rx="32" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.12)" />
+
+  <text x="118" y="140" fill="#FBBF24" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="7">PORTFOLIO SYSTEM DESIGN PROJECT</text>
+  <text x="118" y="238" fill="#F8FAFC" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700">Scalable Real-Time</text>
+  <text x="118" y="320" fill="#F8FAFC" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700">Chat System</text>
+  <text x="118" y="382" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="28">Next.js • Express • Socket.IO • PostgreSQL • Redis • Prisma</text>
+
+  <rect x="118" y="430" width="240" height="58" rx="18" fill="url(#accent)" />
+  <text x="155" y="467" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Full-Stack Portfolio</text>
+
+  <rect x="744" y="132" width="390" height="300" rx="28" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.10)" />
+  <rect x="772" y="164" width="132" height="24" rx="12" fill="rgba(255,255,255,0.10)" />
+  <rect x="772" y="208" width="334" height="68" rx="20" fill="#F97316" />
+  <text x="796" y="248" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Optimistic UI + Realtime Fan-out</text>
+
+  <rect x="812" y="300" width="294" height="58" rx="18" fill="rgba(255,255,255,0.08)" />
+  <text x="838" y="336" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="20">Typing indicators</text>
+
+  <rect x="772" y="374" width="232" height="58" rx="18" fill="rgba(20,184,166,0.18)" />
+  <text x="798" y="410" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="20">Presence via Redis</text>
+
+  <rect x="1040" y="374" width="66" height="58" rx="18" fill="rgba(255,255,255,0.10)" />
+  <circle cx="1073" cy="403" r="9" fill="#10B981" />
+
+  <text x="744" y="492" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="21">Architecture docs included for interview walkthroughs</text>
+</svg>

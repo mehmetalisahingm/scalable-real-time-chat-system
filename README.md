@@ -72,6 +72,18 @@ Suggested captures:
 - mobile responsive view,
 - Swagger API docs.
 
+### Social Preview
+Use `docs/screenshots/social-preview.png` as the repository social preview image in GitHub settings.
+
+![Social preview](./docs/screenshots/social-preview.png)
+
+### App Screenshots
+![Login page](./docs/screenshots/login-page.png)
+
+![Chat workspace](./docs/screenshots/chat-desktop.png)
+
+![Mobile chat view](./docs/screenshots/chat-mobile.png)
+
 ## Core Features
 ### Authentication
 - register
