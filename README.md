@@ -37,6 +37,10 @@ The goal was to build something that is:
 
 ## Demo
 
+![Demo](./docs/videos/demo.gif)
+
+- Video placeholder: [`docs/videos/demo.mp4`](./docs/videos/demo.mp4)
+
 ### Suggested Walkthrough
 
 1. Sign in with a seeded demo account.
@@ -49,10 +53,6 @@ The goal was to build something that is:
 
 - Screenshots live in [`docs/screenshots`](./docs/screenshots/README.md)
 - Video capture notes live in [`docs/videos`](./docs/videos/README.md)
-
-![Login page](./docs/screenshots/login-page.png)
-![Chat workspace](./docs/screenshots/chat-desktop.png)
-![Mobile chat view](./docs/screenshots/chat-mobile.png)
 
 ## Architecture At A Glance
 
@@ -89,7 +89,7 @@ flowchart LR
 | Auth | JWT access token + refresh token rotation |
 | Tooling | Docker Compose, ESLint, Prettier, Vitest, Supertest |
 
-## What This Repo Demonstrates
+## What It Demonstrates
 
 - building REST and websocket flows in the same product
 - choosing relational data modeling for conversations, memberships, and tokens
@@ -182,6 +182,16 @@ This adds another moving part, but it cleanly separates:
 - shared ephemeral state in Redis.
 
 That separation is one of the most important design ideas in the project.
+
+## Screenshots
+
+![Primary Screenshot Placeholder](./docs/screenshots/screen1.png)
+
+Available captures:
+
+![Login page](./docs/screenshots/login-page.png)
+![Chat workspace](./docs/screenshots/chat-desktop.png)
+![Mobile chat view](./docs/screenshots/chat-mobile.png)
 
 ## Quick Start
 

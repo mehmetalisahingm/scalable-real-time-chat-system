@@ -1,10 +1,11 @@
-# Screenshots
+# Screenshot Guide
 
-Add portfolio screenshots here after running the project locally.
+Add polished screenshots here for the README and portfolio site.
 
-Suggested captures:
+Suggested files:
 
-- login screen,
-- main chat workspace,
-- mobile responsive layout,
-- GitHub social preview asset.
+- `screen1.png`
+- `login-page.png`
+- `chat-desktop.png`
+- `chat-mobile.png`
+- `social-preview.png`
